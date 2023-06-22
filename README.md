@@ -79,6 +79,10 @@ If the grant team finds it meets the requirements and brings added value to the 
 
 We will pay primarily in Fiat or ATOM and on a milestone, or delivery basis.
 
+## Follow the journey
+
+You can check out our grant recipients journey's on their projects and work progress on the Hackerspace repo: https://github.com/gnolang/hackerspace/issues
+
 ## Conclusion
 
 We want the funding and grant process to be as transparent and easy as possible, which is why we will conduct the majority of interaction, feedback loops, and updates on GitHub.
