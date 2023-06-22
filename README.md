@@ -15,11 +15,17 @@ We are on the look out for active Gno.land contributors who are participating in
 
 ## What kind of contributors are we looking for?
 
-**Tinkerer**: you want to build by experimenting and inventing. You bring a new perspective to the project and can tackle complex problems. We want to pay to see what you bring as a value add, and that is how this funding works. A tinker grant recipient is autonomous and is evaluated based on proof of delivery - its about the value of your contributions as you go.
+**Tinkerer**: you want to build by experimenting and inventing. You bring a new perspective to the project and can tackle complex problems. We want to pay to see what you bring as a value add, and that is how this funding works. A tinker grant recipient is autonomous and is evaluated based on proof of delivery - its about the value of your contributions as you go. 
+
+For the tinker program, we have three categories:
+   * A student program run through cohorts, only with partner universities (feel free to propose yours)
+   * A developer program run through cohorts: this is for tinkers who have the initial background and motivation, but are still new in development or in Gno
+   * An advanced program for specialized and senior tinkerers or organizations: this is for tinkers with 10+ years experience in developing in web2, web3…etc.
 
 **Builder**: You have an idea for an application, you are using the tech and want to work in complimentary infrastructure to support it, you have an idea for a product. You have the framework of what you want to contribute.
 
 **Researcher**: you want to discover and analyze by deep diving into topics linked to the Gno.land.
+
 
 ## What kind of proposals are we looking for?
 
@@ -68,10 +74,6 @@ Following the submission and informational session, the grant team will review t
 
 If the grant team finds it meets the requirements and brings added value to the Gno.land ecosystem, the submission will be passed along to the review committee. The review committee will meet quarterly to review submission, and in exceptional cases, maybe sooner.
 
-   For the tinker program, we have three categories:
-   * A student program run through cohorts, only with partner universities (feel free to propose yours)
-   * A developer program run through cohorts: this is for tinkers who have the initial background and motivation, but are still new in development or in Gno
-   * An advanced program for specialized and senior tinkerers or organizations: this is for tinkers with 10+ years experience in developing in web2, web3…etc.
 
 ## How do you get funded
 
