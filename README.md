@@ -106,4 +106,4 @@ We want the funding and grant process to be as transparent and easy as possible,
 
 You can also email us at hello@tendermint.com with questions or if you've submitted and want to let us know!
 
-TODO: Build application pull request template
+
