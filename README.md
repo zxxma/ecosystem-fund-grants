@@ -11,7 +11,7 @@ As Gno.land is built using a new consensus mechanism, Proof of Contribution, and
 
 ## How to get involved
 
-We are on the look out for active Gno.land contributors who are participating in our ongoing Game of Realms competition or contributing to pull requests and issues on the Gno.land repos. This is the gateway to joining the Gno.land universe.
+We are on the look out for active Gno.land contributors who are participating in our ongoing Game of Realms competition or contributing to pull requests and issues on the Gno.land repos. This is not only a gateway to joining the Gno.land universe, it is also a condition for the funding and grant application process. You should include it in the submission listed below.  
 
 ## What kind of contributors are we looking for?
 
@@ -96,7 +96,8 @@ We want the funding and grant process to be as transparent and easy as possible,
 * The title of your grant submission (how do you want us to remember you 😊)
 * Grant type (from examples in Readme)- tinker, builder, researcher
 * A short description of what you are proposing (applies to all submissions)
-* What is the goal or the purpose of the proposed grant? (applies to all submissions)
+* What is the goal or the purpose ofthe proposed grant? (applies to all submissions)
+* Contributions, issues and pull requests made to Gno and Game of Realms (links please)
 * Why are you best suited/what is your background (or team’s if applicable) (applies to all submissions)?
 * Milestones and overall time frame of your proposal
 * Your idea for fair funding of the proposal
