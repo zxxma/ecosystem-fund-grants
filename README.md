@@ -11,7 +11,7 @@ As Gno.land is built using a new consensus mechanism, Proof of Contribution, and
 
 ## How to get involved
 
-We are on the look out for Gno.land contributors who are participating in our ongoing Game of Realms competition or contributing to pull requests and issues in our repos. Making contributions is the best way to get involved with the community, and being an active contributor is a prerequisite for funding and grant application approval. So, if you are a passionate contributor who wants to be a part of building Gno.land, whether it's a development project or the next killer app, we invite you to apply.
+We're on the lookout for passionate contributors who are interested in building new projects, dApps, tooling, infrastructure, or smart contract libraries in Gno.land. If you're participating in our ongoing incentivized Game of Realms competition or contributing to PRs and issues on the Gno.land repos and you have an idea for a new project, be sure to apply! Game of Realms is the gateway to joining the Gno.land universe and being an existing Gno.land contributor is a prerequisite of the funding and grant application process. Be sure to highlight your contribution in the submission listed below.
 
 ## What kind of contributors are we looking for?
 
