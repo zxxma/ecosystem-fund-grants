@@ -11,7 +11,7 @@ As Gno.land is built using a new consensus mechanism, Proof of Contribution, and
 
 ## How to get involved
 
-We are on the look out for active Gno.land contributors who are participating in our ongoing Game of Realms competition or contributing to pull requests and issues on the Gno.land repos. This is not only a gateway to joining the Gno.land universe, it is also a condition for the funding and grant application process. You should include it in the submission listed below.  
+We are on the look out for active Gno.land contributors who are participating in our ongoing Game of Realms competition or contributing to pull requests and issues on the Gno.land repos. This is not only a gateway to joining the Gno.land universe, it is also a condition for the funding and grant application process. This is not only a gateway to joining the Gno.land universe, but being an existing Gno.land contributor is a prerequisite condition for you to be considered for the funding and grant application process. You should include it in the submission listed below.You should include it in the submission listed below.  
 
 ## What kind of contributors are we looking for?
 
