@@ -96,7 +96,7 @@ We want the funding and grant process to be as transparent and easy as possible,
 * The title of your grant submission (how do you want us to remember you 😊)
 * Grant type (from examples in Readme)- tinker, builder, researcher
 * A short description of what you are proposing (applies to all submissions)
-* What is the goal or the purpose ofthe proposed grant? (applies to all submissions)
+* What is the goal or the purpose of the proposed grant? (applies to all submissions)
 * Contributions, issues and pull requests made to Gno and Game of Realms (links please)
 * Why are you best suited/what is your background (or team’s if applicable) (applies to all submissions)?
 * Milestones and overall time frame of your proposal
