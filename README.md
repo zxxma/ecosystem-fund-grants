@@ -92,6 +92,7 @@ We want the funding and grant process to be as transparent and easy as possible,
 * Name
 * Project name (if applicable)
 * Team member GitHub handles (if applicable)
+* Email 
 * Links to Twitter, website..etc.
 * The title of your grant submission (how do you want us to remember you 😊)
 * Grant type (from examples in Readme)- tinker, builder, researcher
