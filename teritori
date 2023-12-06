@@ -1,0 +1,265 @@
+## Name
+- Teritori OS
+
+## Project name (if applicable)
+- Gno Core Contribution / Gno Modules 
+- Gno DAO Deployer / Gno DAO standards realms / Gno Moderation DAO realms 
+- Gno Social Feed Realms / Gno Social Feed Integration
+- Gno Verifiable Randomness Function 
+- Escrow Systems Realms
+
+## Team member GitHub handles (if applicable)
+zooma (team lead & research) : https://github.com/zxxma
+norman (gnopher) : https://github.com/n0izn0iz
+Gopher JK (gnopher) : https://github.com/go7066
+yo1110 (gnopher) : https://github.com/hthieu1110
+omniwired (frontend) : https://github.com/omniwired
+ferryman : marketing and content
+leonid : UI/UX design
+
+## Email
+- zooma@nxtpop.io
+
+## Links to Twitter, website..etc.
+### Website/twitter/blog links:
+- Teritori : [Website](https://www.teritori.com/), [Teritori App](https://app.teritori.com/)[Twitter](https://twitter.com/teritori), [Blog](https://medium.com/teritori) 
+- Gno Social feed: [direct link](https://app.teritori.com/feed?network=gno-teritori)
+- Gno DAO Deployer: [direct link](https://app.teritori.com/orgs?network=gno-teritori)
+- Gno Hackerspace Journey: [Contributions reports](https://github.com/gnolang/hackerspace/issues/7) 
+
+### Documentation links:
+- Gno Hackerspace Journey: [Contributions reports](https://github.com/gnolang/hackerspace/issues/7) 
+
+### GitHub links:
+ - Escrow System Research :heavy_check_mark: 
+        > 🔗 https://github.com/TERITORI/gno/pull/5 (Escrow PR)
+ - Conflict Solver Module Research :heavy_check_mark: 
+        > :link: https://github.com/TERITORI/gno/pull/10 (VRF + Justice DAO PR)
+        > :link: https://github.com/TERITORI/gno/pull/11/files Last updates
+- Research around WorxDAO experimentations and models
+        :link: https://github.com/gnolang/gno/issues/872#issuecomment-1781926005
+
+## The title of your grant submission
+- Gnoland Grants Program Application by Teritori
+
+## Grant type 
+- Builders
+
+## A short description of what you are proposing (applies to all submissions)
+- Gno Core Contributions that are essential to the mainnet launch.
+- Gno Standards, Realms and Modules for Decentralized Governances and Organisations (DAO tooling, DAO Modules, DAO Interfaces)
+- Gno Public Apps : Social feed (including posts, articles, music, video); GnoDAO Deployer, Gno Multisig, Gno Onchain Project Manager
+- Development and support for initiatives for building functions of the Gno Core necessary to build the above mentioned products. These functions are also required on Gnoland to launch as a production-ready blockchain.
+
+## What is the goal or the purpose of the proposed grant? 
+Teritori team is focused on experimenting, researchs and developing all necessary tools to build decentralized all-in-one applications for human organizations, including communication, trades and coordination, empowered Gnolang.
+The purpose of this proposed grant is to cover engineers costs, both on the gno core contributions and public products to be available for non-developer community. 
+
+## Contributions, issues and pull requests made to Gno and Game of Realms (links please)
+### Contributions
+
+
+
+📖 Updated the documentation & tutorials with the faucet and published them on Teritori Gitbook:
+**Moderation DAO:**
+https://github.com/gnolang/gno/blob/7d9aa49394b5049eacc57effe8b14a556f92e087/examples/gno.land/r/demo/teritori/MODERATION_DAO.md
+
+**DAO Deployer Tutorial:**
+https://github.com/gnolang/gno/blob/7d9aa49394b5049eacc57effe8b14a556f92e087/examples/gno.land/r/demo/teritori/DAO_TUTORIAL.md
+
+**Teritori Demo Readme:**
+https://github.com/gnolang/gno/blob/7d9aa49394b5049eacc57effe8b14a556f92e087/examples/gno.land/r/demo/teritori/README.md
+
+
+📖  Updated the documentation & tutorials with the faucet and published them on Teritori Gitbook:
+    - [Gno.land Grant Program](https://teritori.gitbook.io/teritori-whitepaper/gno.land/gno.land-grant-program)
+    - [How to get started with Gno.land using Teritori](https://teritori.gitbook.io/teritori-whitepaper/gno.land/how-to-get-started-with-gno.land-using-teritori)
+    - [Introducing Gno.land Social Feed V0.1](https://teritori.gitbook.io/teritori-whitepaper/gno.land/introducing-gno.land-social-feed-v0.1)
+    - [How to deploy a Gno.land DAO using Teritori](https://teritori.gitbook.io/teritori-whitepaper/gno.land/how-to-deploy-a-gno.land-dao-using-teritori)
+    
+Latest VRF codebase
+🔗 https://github.com/TERITORI/gno/tree/escrow_justice_update/examples/gno.land/r/demo/teritori/vrf
+
+PR
+🔗 https://github.com/TERITORI/gno/pull/11/files
+
+📖 Research & Documentation:
+🔗 GnoDAO v0.1 Specs: https://hackmd.io/xmicUqNDQyKFptjxyAWq7g?view
+🔗 Schema Moderation DAO v0.1:
+🔗 Feed Moderation Pattern v0.1:
+https://bafkreifd3eryxvlpi4g4xqde32v4x7oxewiy23zqblm4ssbu5ycrqt5kla.ipfs.nftstorage.link/
+🔗 User Profile Moderation Pattern v0.1:
+https://bafkreigzxvgsjopqzjgvrnzwqz5fjvrca7knyruk7jvpflatsyjogfwpsy.ipfs.nftstorage.link/
+🔗 GnoDAOs repo: https://github.com/TERITORI/gnodaos
+🔗 Research around Decentralized Social Feed Algorithm Design:
+https://hackmd.io/mVc8J-LcSi6aNLyhx1f6wA?view
+
+
+## Why are you best suited/what is your background (or team’s if applicable) (applies to all submissions)?
+- Our team members are full-time engineers in blockchain ecosystem for +4 years and more than 5years in Golang.
+- Teritori team is working for 2 years now on an open source project (built in public) which gather around 16 features adressing needs of users and organisations.
+- Team is composed of Senior engineers, Senior Product Manager, Senior UX/UI Designer, and Senior Front end Engineers with a strong passion for decentralized organisations.
+
+## Milestones and overall time frame of your proposal
+Milestones are set at a time frame of 5 months.
+
+### Milestone #1 - Road to Mainnet (Gno Core Contributions)
+NOTE: These are essential features needed for mainnet and dApps. It requires co-working with core developers & contributors to complete. We will do our best to contribute to completing these features by actively participating in development, providing insights, and helping other developers who are already working on it.
+### Onchain Project Manager Module v0.1
+Onchain task management contracts
+This feature allow an organization to manage projects securely and transparently. 
+
+> Through modular Gno contracts, and a Kanban like interface, this tool will ensure visibility in the monitoring of decentralized projects. 
+Prioritary use cases identified to date are: 
+> - Grant Program management
+> - Services marketplace for freelancers, etc.
+> - Management of a DAO's internal project, requiring collective decision-making for follow-up and payment.
+> - ... others will be added, so don't hesitate to contribute.
+
+
+#### Included in this Grant:
+- **Research around Features needs** :heavy_check_mark: 
+    - Identify Grants Managers needs :heavy_check_mark: 
+    - Identify Project Managers needs :heavy_check_mark: 
+    - Define product specs :heavy_check_mark: 
+    - Research around Modules & Contracts needs:
+        - Escrow System Research :heavy_check_mark: 
+        > 🔗 https://github.com/TERITORI/gno/pull/5 (Escrow PR)
+        - Conflict Solver Module Research :heavy_check_mark: 
+        > :link: https://github.com/TERITORI/gno/pull/10 (VRF + Justice DAO PR)
+        > :link: https://github.com/TERITORI/gno/pull/11/files Last updates
+        - Connect to Social feed contracts for conversations/comments around Tasks & Milestones management 
+        - Research around WorxDAO experimentations and models
+        :link: https://github.com/gnolang/gno/issues/872#issuecomment-1781926005
+- **Gnolang Contracts Ecosystem:** 
+    - Each 'Project' contract will need to include:
+        - Milestones, Tasks, Sub-tasks, Status, dedicated comments feed
+        - Escrow System securing payment
+    - Each 'Project contract' must be managed by 
+        - a simple user
+        - a DAO (Decentralized Autonomous Organization)
+        allowing to change status, execute payments, etc.
+
+- **User Interface & Product Design**
+    - Design the v0.1 of the Product as 'read only' 
+    - Design the Project Manager as 'organisation'
+    - Design the project as 'candidate' to a Grant
+
+- **Front end development**
+    - Develop the v0.1 of the Product as 'read only' (simple user)
+    - Develop the Project Manager as 'Organisation'
+    - Develop the Project as 'candidate' to a Grant
+
+- **Connections**
+    - Allow users to use Adena to connect & interact with product
+    - Link Tasks in the Dashboard to Github repository (PRs)
+
+- **Create Documentations**
+    - Gno Escrow System Contracts Documentation for Developers
+    - Gno Conflict Solver Documentation for Developers
+    - Product Presentation (Article/Blog)
+    - Create a Demo for Community (Video) 
+    - Document the journey on Hackerspace Github Repo
+
+- **Interactions with others Modules**
+    - allow auto-publishing Grants updates on the Social feed by the DAO wallet
+    - display all grants in the Teritori Interface
+
+#### Included contributions
+- **Conflict Resolution Framework v0.1 (former-Justice DAO Module)** 
+this module will allow to solve a conflict between buyer and seller by calling a choosen external authority as judge. 
+This module is necessary to elaborate solutions for conflicts and must be built with a modular, future-proof, and secure approach that could be a large range of usecases. 
+
+This Module could select an 'authority' to judge the conflict situation without any major conflict of interest. 
+Authority could be define by both users before the contract validation, and could be different kind of contracts:
+> Ex #1: Justice DAO: pickup random people in a whitelisted list (based on proof of contribution, or token holders, etc.)
+> Ex #2: an Onchain game? Solve the conflict playing Chess
+> Ex #3: choose a specific multisig adress managed by a company to solve the conflict
+> Ex #4: use an external oracle to solve the conflict
+
+
+- **Side contributions on Gno core topics & Dev tools**
+The team will continue to identify useful tools for developers, to facilitate the onboarding of future developers within the Gno ecosystem.
+For example, the list of interesting topics we'd like to continue contributing to:
+    - VRF (*Verifiable Random Function)
+        > https://github.com/TERITORI/gno/pull/10
+    - GnoLS
+        - support current developers working on it
+    - GnoVM topics
+        - research & experimentations: we'll open clean reports on bugs we encounter
+
+---
+
+### Grant Timeline and Budget Estimation:
+
+Estimation: total 4 months of work
+
+:calendar:  **September and October 2023**  Milestone Preparation
+- Researches (Escrow System, Justice DAO, VRF) : 
+    :link: https://github.com/TERITORI/gno/pull/11/files
+- Product Design (Features Requierements, Specs, Behaviors)
+- User Interface Design (Grant Manager v0.1)
+- Research around WorxDAO models
+    - [link here](https://github.com/gnolang/gno/issues/872#issuecomment-1781926005)
+---
+:computer: Preliminary researches:
+https://github.com/TERITORI/gno/pull/5 (Escrow PR)
+https://github.com/TERITORI/gno/pull/2 (Gnodaos PR)
+https://github.com/TERITORI/gno/pull/10 (VRF + Justice DAO PR)
+Last changes: https://github.com/TERITORI/gno/pull/11/files
+
+---
+
+**November:**
+- Develop Gnolang Onchain Project Manager (OPM) Contracts Ecosystem
+    - Escrow System  with granularity (sub-tasks)
+    - Develop unit tests
+- Front end Development
+    - Connect to Adena
+- Product Design User Interface
+    - Meetings with Project Managers to get feedback
+    - Testing with several different types of users
+
+---
+
+**December:** : Final Delivery v0.1
+- Develop Gnolang Onchain Project Manager (OPM) Contracts Ecosystem
+    - Contracts interactions
+    - Bug fix & Tests
+- Front end Development
+    - Bug fix 
+    - Internal tests before community tests
+- Documentation
+    - developer documentation
+    - open sourcing
+    - articles & blog posts
+    - Video Demo
+
+---
+
+### Timeline Overview: 
+Started : August 24th (Preparation phase) 
+September & October: Researches & Milestone Preparation
+November: Development #1 
+December: Development & Debug 
+Targeted Public (testnet) Delivery date: Q1 2024 (January)
+ 
+
+### Your idea for fair funding of the proposal
+
+Our budget request for this grant:
+End of October: 50 000€ for Step #0.
+End of November: 50 000€ for Step #1
+End of December: 50 000€ for Step #2
+Total: 150 000€
+
+We already shipped step #0, #1.
+
+### What do you and the submission bring to the Gno.land platform and community?
+- Contribute to completing the essential features in Gno Core that the Gnoland blockchain needs for mainnet.
+- Provide a live product for Gnoland community to experiment first usecases of Gnolang
+- Provide valuable feedback and help to Gnocore team when we identify locking points on our road.
+- Ajust our development strategy to Gnocore and ecosystem needs
+- Provide an all-in-one app that bring spotlights on all Gnoland dApps & Projects by others builders
+- Integrate the newest functions of Gno.land as the first tester to improve/develop the missing parts.
+- Contribute to promote Gnolang to all developers around
